@@ -26,5 +26,4 @@ public class MemberServiceImpl implements MemberService{
     public MemberRepository getMemberRepository() {
         return memberRepository;
     }
-
 }
